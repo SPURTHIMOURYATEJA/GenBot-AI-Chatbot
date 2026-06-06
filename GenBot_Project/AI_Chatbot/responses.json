@@ -1,0 +1,99 @@
+{
+  "greetings": {
+    "patterns": ["hello", "hi", "hey", "howdy", "hii", "helo", "sup", "what's up", "whats up"],
+    "responses": [
+      "Hi there! 👋 How can I help you today?",
+      "Hello! Great to see you! What can I do for you? 😊",
+      "Hey! I'm your AI assistant. Ask me anything!"
+    ]
+  },
+  "goodbye": {
+    "patterns": ["bye", "goodbye", "see you", "later", "take care", "cya", "good night", "goodnight"],
+    "responses": [
+      "Goodbye! Have a wonderful day! 👋",
+      "See you later! Take care! 😊",
+      "Bye! It was great chatting with you! 🌟"
+    ]
+  },
+  "thanks": {
+    "patterns": ["thank you", "thanks", "thank u", "thx", "ty", "thanks a lot"],
+    "responses": [
+      "You're welcome! 😊",
+      "Happy to help! Anytime! 🙌",
+      "No problem at all! Let me know if you need anything else!"
+    ]
+  },
+  "name": {
+    "patterns": ["what is your name", "who are you", "your name", "what are you called", "what should i call you"],
+    "responses": [
+      "I'm GenBot, your AI assistant! 🤖",
+      "My name is GenBot! Here to help you anytime! 😊",
+      "Call me GenBot — your intelligent chatbot companion! 🌟"
+    ]
+  },
+  "how_are_you": {
+    "patterns": ["how are you", "how r u", "are you ok", "how do you do", "hows it going", "how's it going"],
+    "responses": [
+      "I'm doing great, thanks for asking! 😊 How about you?",
+      "Feeling fantastic! Ready to help! What's on your mind?",
+      "All systems running perfectly! How can I assist you? 🚀"
+    ]
+  },
+  "machine_learning": {
+    "patterns": ["what is machine learning", "machine learning", "ml", "what is ml", "explain ml"],
+    "responses": [
+      "Machine Learning is a branch of AI that allows systems to learn from data and improve over time without being explicitly programmed! 🧠",
+      "ML is like teaching a computer to learn patterns from examples — just like how humans learn! 📊"
+    ]
+  },
+  "artificial_intelligence": {
+    "patterns": ["what is ai", "artificial intelligence", "what is artificial intelligence", "explain ai"],
+    "responses": [
+      "Artificial Intelligence (AI) is the simulation of human intelligence in machines — enabling them to think, learn, and solve problems! 🤖",
+      "AI is a broad field of computer science focused on building smart machines capable of performing tasks that typically require human intelligence! 💡"
+    ]
+  },
+  "deep_learning": {
+    "patterns": ["deep learning", "what is deep learning", "neural network", "what is neural network"],
+    "responses": [
+      "Deep Learning is a subset of Machine Learning using neural networks with many layers to learn complex patterns from large data! 🧬",
+      "Neural Networks are computing systems inspired by the human brain — they power most of today's AI breakthroughs! 🚀"
+    ]
+  },
+  "python": {
+    "patterns": ["python", "what is python", "python programming", "python language"],
+    "responses": [
+      "Python is a powerful, easy-to-learn programming language widely used in AI, data science, web development, and automation! 🐍",
+      "Python is the #1 language for AI/ML development — simple syntax, powerful libraries like TensorFlow, PyTorch, and scikit-learn! 💻"
+    ]
+  },
+  "flask": {
+    "patterns": ["flask", "what is flask", "flask framework", "python flask"],
+    "responses": [
+      "Flask is a lightweight Python web framework that makes building web apps simple and fast! 🌐",
+      "Flask is the backend of this very chatbot! It handles requests and sends back responses. 🔥"
+    ]
+  },
+  "joke": {
+    "patterns": ["tell me a joke", "joke", "make me laugh", "funny", "say something funny"],
+    "responses": [
+      "Why do programmers prefer dark mode? Because light attracts bugs! 😂",
+      "Why did the AI go to therapy? Because it had too many deep issues! 🤣",
+      "I told my computer I needed a break... now it won't stop sending me vacation ads! 😆"
+    ]
+  },
+  "help": {
+    "patterns": ["help", "what can you do", "what do you know", "capabilities", "features"],
+    "responses": [
+      "I can answer questions about AI, ML, Python, Flask, and more! I can also tell jokes and have a friendly chat! 😊",
+      "Ask me about: Artificial Intelligence, Machine Learning, Python, Flask, or just say hi! 🤖"
+    ]
+  },
+  "default": {
+    "responses": [
+      "Hmm, I'm not sure about that. Try asking me about AI, Machine Learning, or Python! 🤔",
+      "I didn't quite get that. Can you rephrase? I'm still learning! 😅",
+      "Interesting question! But that's beyond my current knowledge. Ask me about AI/ML topics! 🧠"
+    ]
+  }
+}
